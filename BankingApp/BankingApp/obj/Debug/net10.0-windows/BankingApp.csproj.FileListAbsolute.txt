@@ -1,0 +1,16 @@
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.Form1.resources
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.csproj.GenerateResource.cache
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.AssemblyInfoInputs.cache
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.AssemblyInfo.cs
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.csproj.CoreCompileInputs.cache
+E:\Advanced Programming Labs\BankingApp\BankingApp\bin\Debug\net10.0-windows\BankingApp.exe
+E:\Advanced Programming Labs\BankingApp\BankingApp\bin\Debug\net10.0-windows\BankingApp.deps.json
+E:\Advanced Programming Labs\BankingApp\BankingApp\bin\Debug\net10.0-windows\BankingApp.runtimeconfig.json
+E:\Advanced Programming Labs\BankingApp\BankingApp\bin\Debug\net10.0-windows\BankingApp.dll
+E:\Advanced Programming Labs\BankingApp\BankingApp\bin\Debug\net10.0-windows\BankingApp.pdb
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.dll
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\refint\BankingApp.dll
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.pdb
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\BankingApp.genruntimeconfig.cache
+E:\Advanced Programming Labs\BankingApp\BankingApp\obj\Debug\net10.0-windows\ref\BankingApp.dll
